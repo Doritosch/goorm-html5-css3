@@ -1,6 +1,6 @@
 ## HTML?
 * Hyper Text Markup Language 의 약자
-<br>
+<br/>
 
 ### Hyper Text
 * **하이퍼링크**를 이용해 독자가 원하는 순서에 따라 기존문서에서 다른문서로 넘어갈 수 있는 텍스트
@@ -14,14 +14,16 @@
 * 우선순위에 따라 높은 것에서 낮은 것으로 화면에 적용하는 것
 ### Style Sheets
 * 스타일 . 웹페이지의 색이나 글자 크기 및 폰트, 웹페이지의 구성요소 배치
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+
 # HTML
 컨텐츠 구조를 정의하는 마크업언어
 컨텐츠에 태그를 씌워 구조를 구분하여 정의
-<br>
-<br>
+<br/>
+<br/>
+
 <p align="center">
   <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9b19f2818482c6618c82e23b4e6a5a3a4d94c57d" alt="html 요소">
 <br>
@@ -61,6 +63,7 @@ html 요소
   * `<p>` : 내용을 표시하는 태그
 <br>
 <br>
+
 ## 기본적인 레이아웃
 ### Semantic tag
 레이아웃을 태그로 만들어 각 요소의 쓰임을 명확하게 구분하는 것
